@@ -1,0 +1,10 @@
+:host {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 20px;
+}
+
+ul>li>a {
+  cursor: pointer;
+}
